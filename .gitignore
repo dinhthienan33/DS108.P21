@@ -1,0 +1,12 @@
+*.env
+*.xlsx
+*.csv
+project
+rules/
+*.mdc
+*.tex
+craw-ttdd-main/
+human_activity/
+*.rar
+*.zip
+getdata_projectfiles_UCI HAR Dataset/
