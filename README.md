@@ -19,9 +19,11 @@ The purpose of this repo is to summarize the knowledge and skills that I have le
 - **Course**: Data Processing and Analysis (DS108.P21)
 - **Institution**: University of Information Technology (UIT)
 - **Semester**: Spring 2025
+- **Instructor**: Quoc Khanh Tran [18520908@gm.uit.edu.vn](mailto:18520908@gm.uit.edu.vn)
 
 ## Author
 - **Đinh Thiên Ân** - 22520010
+With the permission of the instructor , I will share the code and notes here.
 ## Sections
 ### Homework
 - [Homework 1](./homework/hw1/)
