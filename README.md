@@ -45,7 +45,6 @@ With the permission of the instructor , I will share the code and notes here.
 I have done all the homework and practice by myself.
 If you want to contribute to this repo, please raise an issue or a pull request.
 
-License: [MIT](./LICENSE)
 
 
 
